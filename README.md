@@ -38,6 +38,7 @@ The dataset consists of crime and law-related news articles in Vietnamese. It is
 - TensorFlow / PyTorch
 - Natural Language Processing (NLP)
 - Deep Learning
+
 📜 License
 
 This project is open-source under the MIT License.
