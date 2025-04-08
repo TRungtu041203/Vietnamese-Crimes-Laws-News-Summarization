@@ -4,7 +4,7 @@ This project focuses on summarizing Vietnamese crime and law-related news articl
 
 ## 📌 Features  
 - Pre-trained deep learning models for text summarization.  
-- Custom dataset processing crawl from VNExpress, Bao Phap Luat Viet Name,  and training pipeline.  
+- Custom dataset processing crawl from VNExpress, Bao Phap Luat Viet Nam, Vietnamnet and training pipeline.  
 - Support for both training from scratch and using pre-trained results.  
 
 ## 🚀 Getting Started  
@@ -33,6 +33,7 @@ The dataset consists of crime and law-related news articles in Vietnamese. It is
 - train.csv (Training Data)
 - val.csv (Validation Data)
 - test.csv (Testing Data)
+
 🛠 Technologies Used
 - Python
 - TensorFlow / PyTorch
